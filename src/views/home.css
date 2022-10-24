@@ -957,6 +957,8 @@
   }
   .home-card1 {
     width: 50%;
+    max-width: auto;
+    align-self: flex-start;
   }
   .home-max-width6 {
     flex-direction: column;
@@ -1075,6 +1077,10 @@
 @media(max-width: 479px) {
   .home-image3 {
     width: auto;
+  }
+  .home-image6 {
+    width: 100%;
+    height: auto;
   }
   .home-banner {
     padding-top: var(--dl-space-space-twounits);

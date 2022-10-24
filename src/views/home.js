@@ -407,8 +407,8 @@ const Home = (props) => {
             </div>
           </div>
           <img
-            src="/playground_assets/0x00-600h.png"
             alt="image"
+            src="/playground_assets/0x00-1200w.png"
             className="home-image6"
           />
           <div id="reserve" className="home-banner">
