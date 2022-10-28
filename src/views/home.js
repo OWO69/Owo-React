@@ -444,7 +444,7 @@ const Home = (props) => {
                 <br></br>
               </span>
               <a
-                href="https://twitter.com"
+                href="https://twitter.com/OracleOwl69"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link05"
@@ -452,7 +452,7 @@ const Home = (props) => {
                 Twitter
               </a>
               <a
-                href="https://discord.gg"
+                href="https://discord.gg/c9QbPDJp5B"
                 target="_blank"
                 rel="noreferrer noopener"
                 className="home-link06"
